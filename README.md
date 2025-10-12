@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi bugsguruu Here 👋</h1>
+<h1 align="center">Hi bugs guru Here 👋</h1>
 
 ###
 
